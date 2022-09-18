@@ -1,0 +1,3 @@
+/home/antoshka/CLionProjects/Number/cmake-build-debug/CMakeFiles/Number.dir
+/home/antoshka/CLionProjects/Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antoshka/CLionProjects/Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

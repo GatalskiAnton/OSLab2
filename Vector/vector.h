@@ -1,8 +1,6 @@
-#pragma once
 #include <math.h>
 #include "number.h"
 #include <ostream>
-
 
 using namespace number;
 

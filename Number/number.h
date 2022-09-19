@@ -1,7 +1,3 @@
-#ifndef UNTITLED_LIBRARY_H
-#define UNTITLED_LIBRARY_H
-
-#pragma once
 #include <ostream>
 
 namespace number
@@ -53,4 +49,3 @@ namespace number
     template<typename T>
     inline Number<T>::Number(T number) : number_(number) {};
 }
-#endif //UNTITLED_LIBRARY_H
